@@ -1,0 +1,8 @@
+{
+  "name": "Student Performance AI Analyzer",
+  "description": "Comprehensive educational analytics dashboard for educators to evaluate student outcomes, track attendance and grades, detect at-risk students, and generate AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
