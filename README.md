@@ -39,7 +39,7 @@ example, include only the items that are actually implemented:
 
 Add your published application URL here:
 
-**Live Demo:** `PASTE_YOUR_PUBLIC_APP_URL_HERE`
+**Live Demo:** https://student-performance-ai-analyzer-106546804840.asia-southeast1.run.app
 
 ## Getting Started
 
