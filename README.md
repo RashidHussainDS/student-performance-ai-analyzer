@@ -10,24 +10,11 @@ artificial intelligence can support student performance analysis. The
 goal is to make academic data more useful for understanding student
 progress and identifying areas for improvement.
 
-> **Note:** This README is a starter version. Update the features and
-> technology list to match what your application actually supports.
-
 ## Objectives
 
 -   Make student performance information easier to understand.
 -   Explore practical applications of AI in education.
 -   Support data-informed academic discussions and decisions.
-
-## Features
-
-Add a concise list of the features available in your application. For
-example, include only the items that are actually implemented:
-
--   Student data input or upload
--   Student performance analysis
--   AI-generated summaries or recommendations
--   Performance reports or visualizations
 
 ## Technology Stack
 
@@ -47,12 +34,6 @@ Add your published application URL here:
 
 Open the live demo link above once you have published the application.
 
-### Run locally
-
-The exact local setup steps depend on the framework and dependencies in
-this repository. Check the project files (such as `package.json`) and
-add the correct installation and run commands here. Do not copy generic
-commands until you have verified the project's setup.
 
 ## Future Improvements
 
